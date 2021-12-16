@@ -1,0 +1,23 @@
+span{
+	color:  pink;
+	border: 1px solid pink;
+	}
+.extra span{
+color: inherit;
+}
+#myHeader1{
+font-family: serif;
+background-color: lightblue;
+padding: 40px;
+text-align: 10px;
+}
+#myHeader2{
+font-family: georgia;
+background-color: #CCCCFF;
+padding: 25px;
+text-align: 10px;
+}
+
+body{font-family: sans-serif, arial, helvetica ;}
+h3,em{text-decoration: underline;}
+li em{text-decoration: line-through;font-family: cursive;}

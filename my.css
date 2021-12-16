@@ -1,0 +1,47 @@
+.leftset{
+	border-style: groove;
+	border-color: lavenderblush;
+	border-width: 3px 6px 9px 12px; padding: 5px;
+	position: absolute;
+	width: 30%;
+	top: 100px;
+	left: 150px;
+}
+
+.rightset{
+	border-style: groove;
+	border-color: lavenderblush;
+	border-width: 3px 6px 9px 12px; padding: 5px;
+	position: absolute;
+	width: 40%;
+	top: 100px;
+	right: 150px;
+}
+
+.rightmenu{
+	position: absolute;
+	width: 50%;
+	right: 0px;
+
+}
+
+.background{
+	margin-left:90px;
+	background-image: url("backround.jpg");
+	background-position: center;
+	width: 1200px;
+	height: 700px;
+	border-style: groove;
+	border-color: firebrick;
+}
+
+.picture{
+	position: absolute;
+	left: 27%;
+	right: 25%;
+	height: 600px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-style: groove;
+	border-color: olive;
+}
